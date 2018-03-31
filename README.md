@@ -19,4 +19,7 @@ just to get you started here are a couple challenges for you.
     - crystals produce longer lasting crystals more often
     - booms explode more often
     - dervish slimes produce more tornados at a lower agitation level.
-  - 
+  - selling plorts go for half the listed price on the plort market.
+  - plorts explode after a minute (real life)
+  - chickens got tweaked.
+    - have fun and raise a few.
