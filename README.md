@@ -17,9 +17,13 @@ just to get you started here are a couple challenges for you.
  - slimes are more difficult to deal with
     -rocks roll almost constantly
     - crystals produce longer lasting crystals more often
-    - booms explode more often
-    - dervish slimes produce more tornados at a lower agitation level.
+    - booms explode more often, agitation is used to decrease the frequency
+    - dervish slimes produce more tornados and while happy, but stop when agitated.
   - selling plorts go for half the listed price on the plort market.
   - plorts explode after a minute (real life)
   - chickens got tweaked.
     - have fun and raise a few.
+  - slimes a 0.5% chance to produce a random plort inplace of their own
+  - slimes grow hungry twice as fast
+  - slimes spawn 3x as much
+  - sleeping now takes you to dusk instead of dawn.
